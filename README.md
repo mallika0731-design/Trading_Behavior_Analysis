@@ -13,4 +13,4 @@
 - outputs/complete_analysis.png
 
 ## Colab Link
-[notebook_1.ipynb](PASTE_YOUR_COLAB_LINK_HERE)
+[notebook_1.ipynb](https://colab.research.google.com/drive/1x31OCpXQI0Ay4LInWowtKJ4LLDzLyITO#scrollTo=LoPclP4EU0cj)
