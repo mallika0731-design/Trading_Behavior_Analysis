@@ -1,0 +1,5 @@
+,Closed PnL,Closed PnL,Closed PnL,Closed PnL,Closed PnL,Size USD,Size USD,Side,Win_Rate_%,PnL_per_Trade
+,count,mean,median,std,sum,mean,sum,<lambda>,,
+Classification,,,,,,,,,,
+Fear,110541,42.945,0.0,847.4096,4747187.3887,4270.6838,472085657.34,54970,40.99,42.945
+Greed,100683,55.1212,0.0,991.9512,5549771.5547,7142.2364,719101785.12,47726,41.28,55.1212
